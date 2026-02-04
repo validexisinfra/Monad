@@ -22,8 +22,6 @@ This repository is designed for node operators, infrastructure providers, and va
 - Dedicated NVMe TrieDB setup
 - Secure keystore generation with backups
 - Firewall configuration (UFW + iptables)
-- Snapshot / hard-reset compatible
-- **Dangerous steps isolated into explicit scripts**
 
 ---
 
